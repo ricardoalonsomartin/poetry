@@ -2,25 +2,13 @@ N
 w I edit on the top and in the feature branch.
 Heeeeyyy, laess stuff. 
 Adding another line.
-<<<<<<< HEAD
-aasss
-=======
 Let's break it
->>>>>>> only this
 
 Ah distinct I remember it was in the bleak December
 And each separate dying ember wrought its ghost upon the floor
 Eagerly I wished the morrow--vainly I had sought to borrow
 Fromaa my books surcease of sorrow-sorrow for the lost Lenore
-For that rare and radient maiden whom the angels named Lenore
-
-yeah
-
-<<<<<<< HEAD
-aaew line here.
-
-aaa
-=======
-aaew line here., yes
+For that rare and radient maiden whom the angels named Lenore.
+line here., yes
 conflict here?
->>>>>>> only this
+ only this
